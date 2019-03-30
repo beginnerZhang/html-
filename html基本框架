@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>网页标题</title><!-- 显示网页标题，若title标签为空，则显示文件名。 -->
+	<meta charset="utf-8"><!-- 用来在HTML文档中模拟HTTP协议的响应头报文。 -->
+	<link rel="stylesheet" type="text/css" href="链接外部样式表地址的相对路径"><!-- 当html与css分离时引入css样式表 -->
+	<link rel="stylesheet" type="text/css" href="链接字体库的相对路径"><!-- 用来引入字体库小图标为正文中所用 -->
+	<link rel="shortcut icon" type="image/x-icon" href="小图标的相对路径"><!-- 用来放入网页标题前的小图标 -->
+</head>
+<body>
+
+</body>
+</ HTML>
